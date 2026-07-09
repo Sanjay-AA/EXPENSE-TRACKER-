@@ -1,0 +1,642 @@
+{
+  "transactions": [
+    {
+      "id": "svy7nv6o",
+      "type": "income",
+      "amount": 30000,
+      "description": "Salary",
+      "category": "Salary",
+      "note": "Company",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "4yyvuuvs",
+      "type": "expense",
+      "amount": 850,
+      "description": "Food",
+      "category": "Food",
+      "note": "Cafe",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "db7piacp",
+      "type": "expense",
+      "amount": 1200,
+      "description": "Groceries",
+      "category": "Groceries",
+      "note": "Mart",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "8qf3v7ul",
+      "type": "income",
+      "amount": 5000,
+      "description": "Freelance",
+      "category": "Freelance",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "9aqkg9zb",
+      "type": "expense",
+      "amount": 350,
+      "description": "Coffee Shop",
+      "category": "Coffee Shop",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "5gyq05d5",
+      "type": "expense",
+      "amount": 1500,
+      "description": "Fuel",
+      "category": "Fuel",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "mybxg4cw",
+      "type": "expense",
+      "amount": 1200,
+      "description": "Grocery Store",
+      "category": "Grocery Store",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "zxvq1uaq",
+      "type": "income",
+      "amount": 30000,
+      "description": "Salary",
+      "category": "Salary",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "5z0w2pfk",
+      "type": "expense",
+      "amount": 500,
+      "description": "F",
+      "category": "F",
+      "note": "",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "ijobtk1k",
+      "type": "income",
+      "amount": 1500,
+      "description": "General",
+      "category": "General",
+      "note": "Salary",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "jwjkaa2f",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "pitqmhv6",
+      "type": "income",
+      "amount": 5000,
+      "category": "Freelance",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "b4a866vc",
+      "type": "expense",
+      "amount": 350,
+      "category": "Coffee Shop",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "88dft8ap",
+      "type": "expense",
+      "amount": 1500,
+      "category": "Fuel",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "5ddz15ry",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Grocery Store",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "wabdwnp6",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "0addfin5",
+      "type": "income",
+      "amount": 5000,
+      "category": "Freelance",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "g3vukqy2",
+      "type": "expense",
+      "amount": 350,
+      "category": "Coffee Shop",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "5wymy7mn",
+      "type": "expense",
+      "amount": 1500,
+      "category": "Fuel",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "xl15ih4a",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Grocery Store",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "jvk5xue9",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "p1fveaih",
+      "type": "expense",
+      "amount": 50000,
+      "category": "Utilities",
+      "note": "OCR Scan: il Turnpike",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "67luypys",
+      "type": "expense",
+      "amount": 50,
+      "category": "Utilities",
+      "note": "OCR Scan: il Turnpike",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "77dbnel4",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Company",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "khorckan",
+      "type": "expense",
+      "amount": 850,
+      "category": "Food",
+      "note": "Cafe",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "80s2w3pk",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Groceries",
+      "note": "Mart",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "laqf6nw7",
+      "type": "income",
+      "amount": 5000,
+      "category": "Freelance",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "fr31kf1f",
+      "type": "expense",
+      "amount": 350,
+      "category": "Coffee Shop",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "rg81hh5k",
+      "type": "expense",
+      "amount": 1500,
+      "category": "Fuel",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "ip65uwo2",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Grocery Store",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "m0l3d4qc",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "ake4kks7",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Company",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "t6d0lco9",
+      "type": "expense",
+      "amount": 850,
+      "category": "Food",
+      "note": "Cafe",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "6vh77b4f",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Groceries",
+      "note": "Mart",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "r0mz9jvf",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Company",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "q1bl66ch",
+      "type": "expense",
+      "amount": 850,
+      "category": "Food",
+      "note": "Cafe",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "taqhi4mb",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Groceries",
+      "note": "Mart",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "5l0ju3h6",
+      "type": "income",
+      "amount": 5000,
+      "category": "Freelance",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "4xrvf2f3",
+      "type": "expense",
+      "amount": 350,
+      "category": "Coffee Shop",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "0gto538j",
+      "type": "expense",
+      "amount": 1500,
+      "category": "Fuel",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "xf2a8ncu",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Grocery Store",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "bajxnvus",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "stw4hzx6",
+      "type": "income",
+      "amount": 5000,
+      "category": "Freelance",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "76bhv2yz",
+      "type": "expense",
+      "amount": 350,
+      "category": "Coffee Shop",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "59j0dzum",
+      "type": "expense",
+      "amount": 1500,
+      "category": "Fuel",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "aoykpp6m",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Grocery Store",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "nsq9i4o0",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "xd0rtvpz",
+      "type": "income",
+      "amount": 5000,
+      "category": "Freelance",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "q0ux17am",
+      "type": "expense",
+      "amount": 350,
+      "category": "Coffee Shop",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "0m2mbt7w",
+      "type": "expense",
+      "amount": 1500,
+      "category": "Fuel",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "qkw5fdjy",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Grocery Store",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "wqv406z0",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "v8rpw88j",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Company",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "3bgg1ue5",
+      "type": "expense",
+      "amount": 850,
+      "category": "Food",
+      "note": "Cafe",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "5giiwcgk",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Groceries",
+      "note": "Mart",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "05int6v0",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Company",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "3t70jzic",
+      "type": "expense",
+      "amount": 850,
+      "category": "Food",
+      "note": "Cafe",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "mx66hwx7",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Groceries",
+      "note": "Mart",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "nq2xnb4b",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Company",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "kcwkq4jo",
+      "type": "expense",
+      "amount": 850,
+      "category": "Food",
+      "note": "Cafe",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "7u9wpvpc",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Groceries",
+      "note": "Mart",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "4hazcc9p",
+      "type": "expense",
+      "amount": 350,
+      "category": "Coffee Shop",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "tleqjkgc",
+      "type": "expense",
+      "amount": 1500,
+      "category": "Fuel",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "0xlvmpjk",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Grocery Store",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "tgj1c5b2",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Imported from bank",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "wacbffg6",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Company",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "hhidpy8u",
+      "type": "expense",
+      "amount": 850,
+      "category": "Food",
+      "note": "Cafe",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "lmqm4s7b",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Groceries",
+      "note": "Mart",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "cjfhkhif",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Company",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "w11mn5y9",
+      "type": "expense",
+      "amount": 850,
+      "category": "Food",
+      "note": "Cafe",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "85tux2uz",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Groceries",
+      "note": "Mart",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "uxyulirg",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Company",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "zygqtn64",
+      "type": "expense",
+      "amount": 850,
+      "category": "Food",
+      "note": "Cafe",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "9x6ugt7s",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Groceries",
+      "note": "Mart",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "rmgvd9a1",
+      "type": "income",
+      "amount": 30000,
+      "category": "Salary",
+      "note": "Company",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "1lww7r4k",
+      "type": "expense",
+      "amount": 850,
+      "category": "Food",
+      "note": "Cafe",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "fnabg33s",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Groceries",
+      "note": "Mart",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "r84uy228",
+      "type": "expense",
+      "amount": 1200,
+      "category": "Groceries",
+      "note": "Mart",
+      "date": "2025-08-24"
+    }
+  ],
+  "limit": {
+    "amount": 100000,
+    "createdAt": "2025-08-24T12:27:34.142Z"
+  }
+}
